@@ -1,16 +1,12 @@
-Here’s your **updated `README.md`** for a **Gemini-like chatbot clone** using React and **Google AI Studio’s Gemini 2.0 Flash model** via the API key, including `.env` setup and safe instructions.
 
----
-
-````markdown
 # Gemini Clone 🤖✨ (React + Gemini 2.0 Flash API)
 
 A modern AI chatbot web app inspired by Google Gemini, built with **React** and powered by **Gemini 2.0 Flash** via **Google AI Studio**. It supports real-time messaging, light/dark mode, and a smooth UI designed for fast response.
 
----
 
 
----
+
+
 
 ## ✨ Features
 
@@ -21,13 +17,9 @@ A modern AI chatbot web app inspired by Google Gemini, built with **React** and 
 - 🖥️ Responsive Design (Mobile/Desktop)
 - ⚡ Fast performance using Vite + React
 
----
 
-## 📷 Screenshot
 
-> *(Insert your preview image here)*
 
----
 
 ## 🧠 Tech Stack
 
@@ -38,14 +30,13 @@ A modern AI chatbot web app inspired by Google Gemini, built with **React** and 
 | Tailwind CSS     | Styling                          |
 | Google AI Studio | Gemini 2.0 Flash API             |
 
----
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gemini-clone.git
+git https://github.com/Tanay09876/Gimini-clone.git
 cd gemini-clone
 ````
 
@@ -87,7 +78,7 @@ Then run the app:
 npm run dev
 ```
 
----
+
 
 ## 📂 Project Structure
 
@@ -100,7 +91,7 @@ src/
 └── main.jsx           # Entry point
 ```
 
----
+
 
 ## 📡 Example Gemini API Call
 
