@@ -127,6 +127,6 @@ If you’ve ever pushed `.env` to GitHub:
 * Regenerate your API key at [Google AI Studio](https://makersuite.google.com/)
 
 
-```
+
 
 
